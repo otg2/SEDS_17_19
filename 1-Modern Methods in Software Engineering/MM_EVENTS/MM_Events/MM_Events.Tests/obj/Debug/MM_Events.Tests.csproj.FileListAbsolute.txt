@@ -1,0 +1,78 @@
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\MM_Events.Tests.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\MM_Events.Tests.pdb
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\MM_Events.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Telerik.Web.UI.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Owin.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\EntityFramework.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Telerik.Web.Spreadsheet.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\MM_Events.pdb
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\MM_Events.dll.config
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\EntityFramework.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\obj\Debug\MM_Events.Tests.csprojResolveAssemblyReference.cache
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\obj\Debug\MM_Events.Tests.csproj.CoreCompileInputs.cache
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\obj\Debug\MM_Events.Tests.dll
+C:\Users\orna9\MM_Events\Projects\MM_Events\MM_Events.Tests\obj\Debug\MM_Events.Tests.pdb
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\MM_Events.Tests.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\MM_Events.Tests.pdb
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\MM_Events.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Telerik.Web.UI.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Owin.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Telerik.Web.Spreadsheet.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\MM_Events.pdb
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\obj\Debug\MM_Events.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\obj\Debug\MM_Events.Tests.dll
+C:\Users\ottarg\Documents\Visual Studio 2013\Projects\MM_Events_2\MM_Events.Tests\obj\Debug\MM_Events.Tests.pdb
