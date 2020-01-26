@@ -1,0 +1,49 @@
+MIT paper on successful project :)
+http://cs231n.stanford.edu/reports/2017/pdfs/317.pdf
+
+Rest, a lot of cool stuff
+https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/
+https://github.com/bstriner/keras-adversarial
+https://github.com/carpedm20/DCGAN-tensorflow
+https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
+
+https://raw.githubusercontent.com/roatienza/Deep-Learning-Experiments/master/Experiments/Tensorflow/GAN/dcgan_mnist.py
+https://stackoverflow.com/questions/33664651/import-input-data-mnist-tensorflow-not-working
+https://github.com/osh/KerasGAN/blob/master/mnist_gan.py
+https://keras.io/datasets/
+https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3
+https://stackoverflow.com/questions/42584681/how-to-load-image-data-by-keys-in-keras
+https://github.com/saikatbsk/ImageCompletion-DCGAN
+https://github.com/llSourcell/Pokemon_GAN
+https://github.com/soumith/ganhacks
+https://cdn-images-1.medium.com/max/2000/1*39Nnni_nhPDaLu9AnTLoWw.png
+https://archive.org/details/audio-covers
+https://github.com/Newmu/dcgan_code
+https://elitedatascience.com/machine-learning-projects-for-beginners
+
+GAN (MGAN - https://openreview.net/pdf?id=Byk-VI9eg)
+https://github.com/david-gpu/srez
+https://github.com/carpedm20/DCGAN-tensorflow
+https://github.com/jacobgil/keras-dcgan
+http://bamos.github.io/2016/08/09/deep-completion/ 
+https://www.youtube.com/watch?v=9Yq67CjDqvw&t=5s 
+http://carlvondrick.com/tinyvideo/ 
+https://www.youtube.com/watch?v=-E2N1kQc8MM )
+
+This is a pretty good use of GAN, interested in fixing videos, 	combined with 
+https://github.com/junyanz/iGAN 
+https://github.com/WenchenLi/PhotoRestoration photo restoration
+Demo: https://www.youtube.com/watch?v=0-hK_IqtTBg or https://www.youtube.com/watch?v=7Z3G5YJWtag 
+
+Damage demo
+https://www.youtube.com/watch?v=OukJStv0Be4
+https://www.youtube.com/watch?v=pwp_M2ZDAEc
+
+Pokemon recognition
+https://medium.com/@dimart/pok%C3%A9mon-recognition-d3ad5cadc61e
+
+Upscaling images
+https://github.com/nagadomi/waifu2x
+
+Face recognition
+https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78

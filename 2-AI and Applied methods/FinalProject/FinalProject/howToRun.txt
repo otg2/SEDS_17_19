@@ -1,0 +1,25 @@
+SETUP
+1.  Make sure Tensorflow, Scipy and Numpy are installed
+2. 	Copy the 'output' folder to C (or root)
+3. 	Open Anaconda prompt
+4. 	Locate the folder where modded_GAN.py is
+5.	Activate Tensorflow
+
+EDIT IMAGES
+1. 	Put the desired image amount in the data folder
+2. 	Run 'python editimages.py'
+
+TO TRAIN
+1. 	Open modded_GAN.py
+2. 	Uncomment train()
+3. 	Comment createFromCheckpoint()
+4.	run 'python modded_GAN.py'
+
+TO GENERATE IMAGE AFTER TRAINING
+1. 	Open modded_GAN.py
+2. 	Comment train()
+3. 	Uncomment createFromCheckpoint()
+4. 	Open C://output/our/checkpoint and change the 
+		model_checkpoint_path: "/output/our/model3000"
+	to any model available (2000, 2500, 3000, 3500, 4000)
+5.	run 'python modded_GAN.py'	
