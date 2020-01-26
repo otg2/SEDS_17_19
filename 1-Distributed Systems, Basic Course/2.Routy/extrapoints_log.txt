@@ -1,0 +1,61 @@
+Erlang/OTP 20 [erts-9.0] [64-bit] [smp:4:4] [ds:4:4:10] [async-threads:10]
+
+Eshell V9.0  (abort with ^G)
+(northa@130.229.139.30)1> cd("C:/Users/ottarg/Documents/erl/routy").
+C:/Users/ottarg/Documents/erl/routy
+ok
+(northa@130.229.139.30)2> c(history).
+{ok,history}
+
+(northa@130.229.139.30)26> routy:start(n1, newyork).     
+(northa@130.229.139.30)27> n1 ! {add, beijing, {a1, 'asia@130.229.183.88'}}.
+
+(northa@130.229.139.30)30> n1 ! update.
+Table [{beijing,beijing}]
+
+(northa@130.229.139.30)31> n1 ! broadcast.                                  
+broadcast {links,newyork,1,[beijing]}
+
+(northa@130.229.139.30)35> n1 ! broadcast.
+broadcast {links,newyork,2,[beijing]}
+
+(northa@130.229.139.30)39> n1 ! update.
+Table [{newyork,beijing},{stockholm,beijing},{beijing,beijing}]
+
+(northa@130.229.139.30)40> n1 ! {send, stockholm, 'hejdo'}.
+newyork: routing message (hejdo){send,stockholm,hejdo
+
+(northa@130.229.139.30)41> 
+=ERROR REPORT==== 13-Sep-2017::16:02:28 ===
+Error in process <0.113.0> on node 'northa@130.229.139.30' with exit value:
+{{case_clause,{beijing,#Ref<0.170562145.197918721.55155>,
+                       {a1,'asia@130.229.183.88'}}},
+ [{interface,name,2,[{file,"interface.erl"},{line,37}]},
+  {routy,router,6,[{file,"routy.erl"},{line,66}]}]}
+
+(northa@130.229.139.30)50> c(interface).
+{ok,interface}
+
+(northa@130.229.139.30)53> routy:start(n1, newyork).  
+(northa@130.229.139.30)54> n1 ! {add, beijing, {a1, 'asia@130.229.183.88'}}.
+(northa@130.229.139.30)55> n1 ! {add, shanghai, {a2, 'asia@130.229.183.88'}}.
+
+(northa@130.229.139.30)58> n1 ! update.   
+Table [{shanghai,shanghai},{beijing,beijing}]
+
+(northa@130.229.139.30)59> n1 ! broadcast.
+broadcast {links,newyork,1,[beijing,shanghai]}
+
+(northa@130.229.139.30)60> n1 ! update.   
+Table [{newyork,beijing},{stockholm,beijing},{shanghai,shanghai},{beijing,beijing}]
+
+(northa@130.229.139.30)61> n1 ! {send, stockholm, 'hejdo'}.                  
+newyork: routing message (hejdo){send,stockholm,hejdo}
+newyork: exit received from beijing   
+                     
+(northa@130.229.139.30)62> n1 ! update.                    
+Update Table [{newyork,shanghai},{stockholm,shanghai},{shanghai,shanghai}]
+
+(northa@130.229.139.30)63> n1 ! {send, stockholm, 'hejdo'}.
+newyork: routing message (hejdo){send,stockholm,hejdo}
+newyork: exit received from shanghai
